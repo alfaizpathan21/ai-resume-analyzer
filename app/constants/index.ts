@@ -89,96 +89,96 @@ export const resumes: Resume[] = [
             },
         },
     },
-    {
-        id: "4",
-        companyName: "Google",
-        jobTitle: "Frontend Developer",
-        imagePath: "/images/resume_01.png",
-        resumePath: "/resumes/resume-1.pdf",
-        feedback: {
-            overallScore: 85,
-            ATS: {
-                score: 90,
-                tips: [],
-            },
-            toneAndStyle: {
-                score: 90,
-                tips: [],
-            },
-            content: {
-                score: 90,
-                tips: [],
-            },
-            structure: {
-                score: 90,
-                tips: [],
-            },
-            skills: {
-                score: 90,
-                tips: [],
-            },
-        },
+   {
+  id: "4",
+  companyName: "Google",
+  jobTitle: "Frontend Developer",
+  imagePath: "/images/resume_01.png",
+  resumePath: "/resumes/resume-1.pdf",
+  feedback: {
+    overallScore: 86,
+    ATS: {
+      score: 88,
+      tips: [],
     },
-    {
-        id: "5",
-        companyName: "Microsoft",
-        jobTitle: "Cloud Engineer",
-        imagePath: "/images/resume_02.png",
-        resumePath: "/resumes/resume-2.pdf",
-        feedback: {
-            overallScore: 55,
-            ATS: {
-                score: 90,
-                tips: [],
-            },
-            toneAndStyle: {
-                score: 90,
-                tips: [],
-            },
-            content: {
-                score: 90,
-                tips: [],
-            },
-            structure: {
-                score: 90,
-                tips: [],
-            },
-            skills: {
-                score: 90,
-                tips: [],
-            },
-        },
+    toneAndStyle: {
+      score: 82,
+      tips: [],
     },
-    {
-        id: "6",
-        companyName: "Apple",
-        jobTitle: "iOS Developer",
-        imagePath: "/images/resume_03.png",
-        resumePath: "/resumes/resume-3.pdf",
-        feedback: {
-            overallScore: 75,
-            ATS: {
-                score: 90,
-                tips: [],
-            },
-            toneAndStyle: {
-                score: 90,
-                tips: [],
-            },
-            content: {
-                score: 90,
-                tips: [],
-            },
-            structure: {
-                score: 90,
-                tips: [],
-            },
-            skills: {
-                score: 90,
-                tips: [],
-            },
-        },
+    content: {
+      score: 90,
+      tips: [],
     },
+    structure: {
+      score: 84,
+      tips: [],
+    },
+    skills: {
+      score: 87,
+      tips: [],
+    },
+  },
+},
+{
+  id: "5",
+  companyName: "Microsoft",
+  jobTitle: "Cloud Engineer",
+  imagePath: "/images/resume_02.png",
+  resumePath: "/resumes/resume-2.pdf",
+  feedback: {
+    overallScore: 62,
+    ATS: {
+      score: 70,
+      tips: [],
+    },
+    toneAndStyle: {
+      score: 60,
+      tips: [],
+    },
+    content: {
+      score: 65,
+      tips: [],
+    },
+    structure: {
+      score: 58,
+      tips: [],
+    },
+    skills: {
+      score: 55,
+      tips: [],
+    },
+  },
+},
+{
+  id: "6",
+  companyName: "Apple",
+  jobTitle: "iOS Developer",
+  imagePath: "/images/resume_03.png",
+  resumePath: "/resumes/resume-3.pdf",
+  feedback: {
+    overallScore: 78,
+    ATS: {
+      score: 82,
+      tips: [],
+    },
+    toneAndStyle: {
+      score: 75,
+      tips: [],
+    },
+    content: {
+      score: 80,
+      tips: [],
+    },
+    structure: {
+      score: 77,
+      tips: [],
+    },
+    skills: {
+      score: 76,
+      tips: [],
+    },
+  },
+}
 ];
 
 export const AIResponseFormat = `
