@@ -14,6 +14,13 @@ A modern, production-ready template for building full-stack React applications u
 - 🎉 TailwindCSS for styling
 - 📖 [React Router docs](https://reactrouter.com/)
 
+
+## 🚀 Live Demo
+
+🔗 [AI Resume Analyzer](https://ai-resume-analyzer-222-whfu6.puter.site)
+
+Smart AI-powered resume analysis tool built with React Router, TypeScript, and Puter KV storage.
+
 ## Getting Started
 
 ### Installation
